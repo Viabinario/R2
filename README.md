@@ -1,4 +1,4 @@
-# Rush-02: Conversor de Números a Palabras
+# Conversor de Números a Palabras
 
 ## Descripción
 
